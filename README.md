@@ -1,6 +1,6 @@
 # Text Animation Horizontal Parallax
 
-![frame](https://github.com/juliorafre/text-horizontal-parallax/blob/main/blob/text-parallax.mov)
+![frame](https://github.com/juliorafre/text-horizontal-parallax/blob/main/blob/text-parallax.mp4?raw=true)
 
 
 
