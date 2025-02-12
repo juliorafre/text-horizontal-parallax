@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Regular';
+  src: url('../../public/fonts/PPNeueWorld-Regular.ttf');
+}
+
+body {
+  font-family: 'Regular';
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
